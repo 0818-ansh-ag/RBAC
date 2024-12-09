@@ -1,5 +1,3 @@
-Here’s a revised version of the README with the same meaning but rephrased to avoid plagiarism:
-
 ---
 
 # **Role-Based Access Control (RBAC) User Interface**
